@@ -1,0 +1,9 @@
+{
+    "services": [
+        { "title": "ASIC Design", "description": "End-to-end ASIC design services from concept to production." },
+        { "title": "FPGA Prototyping", "description": "Rapid prototyping using FPGA for design verification." },
+        { "title": "RTL Design & Verification", "description": "Comprehensive RTL design and verification solutions." },
+        { "title": "Physical Design", "description": "Full physical design services ensuring optimal performance." },
+        { "title": "Post-Silicon Validation", "description": "Validation services post-silicon to guarantee functionality." }
+    ]
+}

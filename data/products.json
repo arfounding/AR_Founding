@@ -1,0 +1,7 @@
+{
+    "products": [
+        { "title": "High-Performance Computing Chips", "description": "Chips designed for next-gen computing power." },
+        { "title": "Low-Power Embedded Systems", "description": "Efficient embedded systems for power-conscious applications." },
+        { "title": "Next-Gen Networking Solutions", "description": "Innovative solutions for high-speed networking." }
+    ]
+}
